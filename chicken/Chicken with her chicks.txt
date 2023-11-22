@@ -1,0 +1,3 @@
+#Q1. Draw the following color picture which consist of chickens and make the chickens move across the ground. 
+You should also implement the functions that draw the components of the picture, such as the sun, hen and chickens respectively. 
+A function may include one or more other functions?

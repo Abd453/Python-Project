@@ -1,0 +1,2 @@
+#Q2. Draw the following Beautiful day color picture which consist of a person and make the person move across the grass.
+ You should also implement the functions that draw the components of the picture, such as the cloud.  
